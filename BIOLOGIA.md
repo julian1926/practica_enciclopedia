@@ -1,3 +1,12 @@
 ## Definición
 
 La **célula** es la unidad estructural y funcional básica de todos los organismos vivos conocidos. Es la unidad más pequeña de vida que puede replicarse de forma independiente y lleva a cabo todas las funciones vitales.
+
+## Conceptos Clave
+
+* **Teoría Celular:** Principio fundamental de la biología que establece que todos los organismos vivos están compuestos por células, que las células son las unidades básicas de estructura y función, y que todas las células provienen de células preexistentes.
+* **Procariota:** Tipo de célula que no tiene un núcleo definido ni otros orgánulos unidos a la membrana (ej., bacterias y arqueas).
+* **Eucariota:** Tipo de célula que tiene un núcleo definido unido a la membrana y otros orgánulos membranosos (ej., células de plantas, animales, hongos y protistas).
+* **Orgánulos:** Estructuras especializadas dentro de una célula eucariota que realizan funciones específicas (ej., mitocondrias, cloroplastos, retículo endoplasmático).
+* **Membrana Plasmática:** La capa externa que rodea a todas las células y controla el paso de sustancias dentro y fuera de la célula.
+* **ADN (Ácido Desoxirribonucleico):** La molécula que contiene la información genética hereditaria en las células.
