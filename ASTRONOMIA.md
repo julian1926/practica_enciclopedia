@@ -16,3 +16,9 @@ El **Sistema Solar** es el sistema planetario ligado gravitacionalmente al Sol y
 * **Las Observaciones de Galileo Galilei:** Con su telescopio, Galileo observó las fases de Venus (apoyando el modelo heliocéntrico) y las cuatro lunas más grandes de Júpiter, demostrando que no todos los cuerpos celestes orbitaban directamente la Tierra.
 
 * **Las Leyes de Kepler del Movimiento Planetario:** Basándose en las precisas observaciones de Tycho Brahe, Johannes Kepler formuló tres leyes que describen el movimiento de los planetas alrededor del Sol, estableciendo que las órbitas son elípticas, la velocidad orbital varía y existe una relación matemática entre el período orbital y el tamaño de la órbita.
+
+## Curiosidades
+
+* **El planeta más caliente:** Venus tiene una temperatura superficial promedio de alrededor de 464 °C (867 °F), más caliente que Mercurio a pesar de estar más lejos del Sol, debido a su densa atmósfera de dióxido de carbono que causa un efecto invernadero extremo.
+
+* **La Gran Mancha Roja de Júpiter:** Esta tormenta anticiclónica gigante en Júpiter ha estado activa durante al menos 350 años y es más grande que la Tierra.
