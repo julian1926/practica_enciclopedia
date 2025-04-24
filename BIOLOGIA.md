@@ -10,3 +10,9 @@ La **célula** es la unidad estructural y funcional básica de todos los organis
 * **Orgánulos:** Estructuras especializadas dentro de una célula eucariota que realizan funciones específicas (ej., mitocondrias, cloroplastos, retículo endoplasmático).
 * **Membrana Plasmática:** La capa externa que rodea a todas las células y controla el paso de sustancias dentro y fuera de la célula.
 * **ADN (Ácido Desoxirribonucleico):** La molécula que contiene la información genética hereditaria en las células.
+
+## Experimentos
+
+* **El Descubrimiento de la Célula por Robert Hooke:** En 1665, Robert Hooke observó cortes delgados de corcho bajo un microscopio y vio pequeñas estructuras a las que llamó "células".
+
+* **Las Observaciones de Anton van Leeuwenhoek:** Utilizando microscopios de lente única que él mismo construyó, Anton van Leeuwenhoek fue el primero en observar microorganismos vivos ("animálculos") en el agua y otras sustancias.
