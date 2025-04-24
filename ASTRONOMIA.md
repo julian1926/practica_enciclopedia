@@ -22,3 +22,10 @@ El **Sistema Solar** es el sistema planetario ligado gravitacionalmente al Sol y
 * **El planeta más caliente:** Venus tiene una temperatura superficial promedio de alrededor de 464 °C (867 °F), más caliente que Mercurio a pesar de estar más lejos del Sol, debido a su densa atmósfera de dióxido de carbono que causa un efecto invernadero extremo.
 
 * **La Gran Mancha Roja de Júpiter:** Esta tormenta anticiclónica gigante en Júpiter ha estado activa durante al menos 350 años y es más grande que la Tierra.
+
+## Referencias
+
+* **Cosmos de Carl Sagan:** Una popular serie de televisión y libro que explora la astronomía y el universo de manera accesible.
+* **NASA Solar System Exploration:** Un sitio web de la NASA con información detallada, imágenes y noticias sobre el Sistema Solar.
+* **Astronomy Magazine:** Una revista popular que cubre una amplia gama de temas astronómicos.
+
