@@ -16,3 +16,10 @@ La **Tabla Periódica de los Elementos** es una disposición tabular de los elem
 * **El Descubrimiento de los Elementos:** A lo largo de la historia, diversos experimentos llevaron al aislamiento y la identificación de los elementos químicos. Por ejemplo, el calentamiento de minerales para obtener metales o el análisis de gases.
 
 * **La Ley de las Octavas de Newlands:** John Newlands observó en 1864 que al ordenar los elementos conocidos por su masa atómica, el octavo elemento mostraba propiedades similares al primero, una observación temprana hacia la periodicidad.
+
+## Curiosidades
+
+* **El origen de los nombres:** Muchos elementos reciben sus nombres de lugares (ej., germanio), científicos (ej., curio) o propiedades (ej., argón, que significa "inactivo").
+
+* **Elementos sintéticos:** Algunos elementos de la tabla periódica no se encuentran de forma natural y han sido creados artificialmente en laboratorios, generalmente mediante reacciones nucleares (ej., tecnecio, plutonio).
+
