@@ -10,3 +10,9 @@ La **Tabla Periódica de los Elementos** es una disposición tabular de los elem
 * **Isótopos:** Átomos del mismo elemento que tienen el mismo número de protones pero diferente número de neutrones.
 * **Grupo (o Familia):** Una columna vertical en la tabla periódica; los elementos dentro de un grupo tienen propiedades químicas similares.
 * **Período:** Una fila horizontal en la tabla periódica; los elementos dentro de un período tienen el mismo número de capas electrónicas.
+
+## Experimentos
+
+* **El Descubrimiento de los Elementos:** A lo largo de la historia, diversos experimentos llevaron al aislamiento y la identificación de los elementos químicos. Por ejemplo, el calentamiento de minerales para obtener metales o el análisis de gases.
+
+* **La Ley de las Octavas de Newlands:** John Newlands observó en 1864 que al ordenar los elementos conocidos por su masa atómica, el octavo elemento mostraba propiedades similares al primero, una observación temprana hacia la periodicidad.
