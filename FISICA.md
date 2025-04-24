@@ -16,3 +16,9 @@ La **mecánica clásica** es la rama de la física que describe el movimiento de
 * **El Plano Inclinado de Galileo:** Galileo Galilei utilizó planos inclinados para estudiar el movimiento de objetos bajo la influencia de la gravedad, demostrando que la aceleración de un objeto que cae es constante (despreciando la resistencia del aire). Observó que objetos de diferente masa caían con la misma aceleración.
 
 * **El Péndulo Simple:** El estudio del péndulo simple demuestra conceptos como el movimiento armónico simple, la conservación de la energía (intercambio entre energía potencial gravitatoria y energía cinética) y la dependencia del período con la longitud del péndulo (para pequeñas oscilaciones).
+
+## Curiosidades
+
+* **La manzana de Newton:** Aunque la historia de la manzana cayendo sobre la cabeza de Isaac Newton es probablemente una simplificación, ilustra la inspiración que llevó a Newton a formular su ley de gravitación universal, conectando la caída de objetos en la Tierra con el movimiento de los cuerpos celestes.
+
+* **El principio de inercia:** La primera ley de Newton establece que un objeto en reposo permanecerá en reposo y un objeto en movimiento continuará en movimiento con una velocidad constante a menos que actúe una fuerza sobre él. Este concepto revolucionario rompió con la idea aristotélica de que el movimiento requería una causa constante.
