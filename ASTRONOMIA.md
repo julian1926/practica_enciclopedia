@@ -10,3 +10,9 @@ El **Sistema Solar** es el sistema planetario ligado gravitacionalmente al Sol y
 * **Satélite Natural (Luna):** Un cuerpo que orbita un planeta o un planeta enano.
 * **Asteroide:** Un cuerpo rocoso pequeño que orbita alrededor del Sol, principalmente en el cinturón de asteroides entre Marte y Júpiter.
 * **Cometa:** Un cuerpo helado pequeño que, al acercarse al Sol, se calienta y comienza a liberar gases, mostrando una coma o cola.
+
+## Experimentos
+
+* **Las Observaciones de Galileo Galilei:** Con su telescopio, Galileo observó las fases de Venus (apoyando el modelo heliocéntrico) y las cuatro lunas más grandes de Júpiter, demostrando que no todos los cuerpos celestes orbitaban directamente la Tierra.
+
+* **Las Leyes de Kepler del Movimiento Planetario:** Basándose en las precisas observaciones de Tycho Brahe, Johannes Kepler formuló tres leyes que describen el movimiento de los planetas alrededor del Sol, estableciendo que las órbitas son elípticas, la velocidad orbital varía y existe una relación matemática entre el período orbital y el tamaño de la órbita.
