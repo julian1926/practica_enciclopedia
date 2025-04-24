@@ -23,3 +23,9 @@ La **Tabla Periódica de los Elementos** es una disposición tabular de los elem
 
 * **Elementos sintéticos:** Algunos elementos de la tabla periódica no se encuentran de forma natural y han sido creados artificialmente en laboratorios, generalmente mediante reacciones nucleares (ej., tecnecio, plutonio).
 
+## Referencias
+
+* **Química: La Ciencia Central de Brown, LeMay, Bursten, Murphy y Woodward:** Un libro de texto universitario de química general que dedica capítulos a la tabla periódica.
+* **Royal Society of Chemistry - Periodic Table:** Un recurso interactivo en línea con información detallada sobre cada elemento.
+* **The Periodic Table: A Very Short Introduction de Eric Scerri:** Una introducción concisa a la historia y el significado de la tabla periódica.
+
