@@ -22,3 +22,9 @@ La **mecánica clásica** es la rama de la física que describe el movimiento de
 * **La manzana de Newton:** Aunque la historia de la manzana cayendo sobre la cabeza de Isaac Newton es probablemente una simplificación, ilustra la inspiración que llevó a Newton a formular su ley de gravitación universal, conectando la caída de objetos en la Tierra con el movimiento de los cuerpos celestes.
 
 * **El principio de inercia:** La primera ley de Newton establece que un objeto en reposo permanecerá en reposo y un objeto en movimiento continuará en movimiento con una velocidad constante a menos que actúe una fuerza sobre él. Este concepto revolucionario rompió con la idea aristotélica de que el movimiento requería una causa constante.
+
+## Referencias
+
+* **Física para Científicos e Ingenieros de Serway y Jewett:** Un libro de texto universitario clásico que cubre la mecánica clásica en detalle.
+* **El Universo Mecánico (serie de televisión de Caltech):** Una serie de videos educativos que explican los conceptos de la física clásica de manera accesible.
+* **Khan Academy - Física:** Ofrece lecciones y ejercicios gratuitos sobre mecánica clásica y otros temas de física.
