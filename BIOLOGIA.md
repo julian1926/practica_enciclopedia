@@ -16,3 +16,9 @@ La **célula** es la unidad estructural y funcional básica de todos los organis
 * **El Descubrimiento de la Célula por Robert Hooke:** En 1665, Robert Hooke observó cortes delgados de corcho bajo un microscopio y vio pequeñas estructuras a las que llamó "células".
 
 * **Las Observaciones de Anton van Leeuwenhoek:** Utilizando microscopios de lente única que él mismo construyó, Anton van Leeuwenhoek fue el primero en observar microorganismos vivos ("animálculos") en el agua y otras sustancias.
+
+## Curiosidades
+
+* **El número de células en el cuerpo humano:** Se estima que el cuerpo humano adulto está compuesto por alrededor de 37 billones de células.
+
+* **La diversidad celular:** Existen muchos tipos diferentes de células especializadas en los organismos multicelulares, cada una con una estructura y función únicas (ej., neuronas, glóbulos rojos, células musculares).
